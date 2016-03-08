@@ -10,7 +10,10 @@ namespace test_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Taco Bell);
+            Console.WriteLine("Taco Bell");
+            Console.BackgroundColor = ConsoleColor.Green;
+            Console.ForegroundColor = ConsoleColor.Gray;
+            Console.ReadLine();
         }
     }
 }
