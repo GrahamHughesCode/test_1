@@ -13,6 +13,7 @@ namespace test_1
             Console.WriteLine("Taco Bell");
             Console.BackgroundColor = ConsoleColor.Green;
             Console.ForegroundColor = ConsoleColor.Gray;
+            Console.WriteLine("My poop was lovely");
             Console.ReadLine();
         }
     }
