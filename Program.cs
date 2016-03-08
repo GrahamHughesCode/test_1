@@ -17,6 +17,7 @@ namespace test_1
             Console.Beep();
             Console.ReadLine();
             Console.WriteLine("Fish Tacos");
+            Console.WriteLine("Hello Taco Man");
         }
     }
 }
