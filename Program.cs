@@ -16,6 +16,7 @@ namespace test_1
             Console.WriteLine("My poop was lovely");
             Console.Beep();
             Console.ReadLine();
+            Console.WriteLine("Fish Tacos");
         }
     }
 }
