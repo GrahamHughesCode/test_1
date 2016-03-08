@@ -1,1 +1,6 @@
 C:\Users\Graham\Desktop\GitHub\test_1\test_1\bin\Debug\test_1.exe.config
+C:\Users\Graham\Desktop\GitHub\test_1\test_1\bin\Debug\test_1.exe
+C:\Users\Graham\Desktop\GitHub\test_1\test_1\bin\Debug\test_1.pdb
+C:\Users\Graham\Desktop\GitHub\test_1\test_1\obj\Debug\test_1.csprojResolveAssemblyReference.cache
+C:\Users\Graham\Desktop\GitHub\test_1\test_1\obj\Debug\test_1.exe
+C:\Users\Graham\Desktop\GitHub\test_1\test_1\obj\Debug\test_1.pdb
