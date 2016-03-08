@@ -14,6 +14,7 @@ namespace test_1
             Console.BackgroundColor = ConsoleColor.Green;
             Console.ForegroundColor = ConsoleColor.Gray;
             Console.WriteLine("My poop was lovely");
+            Console.Beep();
             Console.ReadLine();
         }
     }
